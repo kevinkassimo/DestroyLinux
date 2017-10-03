@@ -10,3 +10,5 @@ env DEFAULT_RUNLEVEL=0 # or 6
 ### Filesystem Table  
 Try doing something else with your `/etc/fstab` and then reboot.  
 
+### Moving /etc to Somewhere Else
+How about a *new partition* away from `/`? Sounds like a good idea.  
