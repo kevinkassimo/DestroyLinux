@@ -23,3 +23,8 @@ Try doing something else with your `/etc/fstab` and then reboot.
 
 ### Moving /etc to Somewhere Else
 How about a *new partition* away from `/`? Sounds like a good idea.  
+
+### EFI, grub, ...
+(Actually for Mac users, more often)  
+What is that `EFI` partition? It is taking up some space. Can I just clear everything inside?  
+And `/boot`...  
